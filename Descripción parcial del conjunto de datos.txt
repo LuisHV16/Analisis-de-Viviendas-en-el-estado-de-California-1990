@@ -1,0 +1,24 @@
+Aquí hay una descripción parcial del conjunto de datos.
+
+Contexto
+Los datos contienen información del censo de California de 1990. Entonces, aunque es posible que no lo ayude a predecir los precios actuales de la vivienda como el conjunto de datos Zillow Zestimate, proporciona un conjunto de datos introductorio accesible para enseñar a las personas sobre los conceptos básicos del aprendizaje automático.
+
+longitude: Las coordenadas de longitud de la ubicación de la vivienda.
+
+latitude : Las coordenadas de latitud de la ubicación de la vivienda.
+
+housing_median_age : La edad media de las casas en un vecindario específico.
+
+total_rooms : El número total de habitaciones en una unidad de vivienda.
+
+total_bedrooms : El número total de dormitorios en una unidad de vivienda.
+
+población : La población cuenta en un barrio específico.
+
+hogares : El número de hogares en un vecindario específico.
+
+mediana_ingreso : La mediana de ingresos de los hogares en un vecindario específico.
+
+mediana_casa_valor : El valor medio de las casas en un vecindario específico.
+
+ocean_proximity : La proximidad de una unidad de vivienda al océano.
